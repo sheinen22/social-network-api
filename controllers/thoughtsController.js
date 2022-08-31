@@ -1,7 +1,7 @@
 const { User, Thought } = require("../models");
 
 //get all thoughts - find
-// get single thought by id - findone
+//get single thought by id - findone
 //post create a new thought - needs association with users thoughts - create
 //put update a thought by id - findoneandupdate
 //delete remove a thought by id - findoneanddelete
